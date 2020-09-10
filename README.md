@@ -6,12 +6,12 @@ effective design. Includes a main menu teaching the controls and offering the us
 options that effect maze generation and solving. Once initiated, the current state of each cell is shown using colours, 
 which are explained with a handy key.
 
---- Options ---
+--- Options
 
--- Maze Generation --
+-- Maze Generation
 - Queue Method (What order elements are taken out of the queue): LIFO, FIFO
 - Choose Method (How new unvisited neighbours are chosen): random, first, last
 (Note: choosing LIFO and random yields the recursive back tracker algorithm)
 
--- Maze Solving --
+-- Maze Solving
 - Algorithm (Which path finding algorithm is used): breadth-first search, depth-first search
