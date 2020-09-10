@@ -11,6 +11,7 @@ which are explained with a handy key.
 -- Maze Generation
 - Queue Method (What order elements are taken out of the queue): LIFO, FIFO
 - Choose Method (How new unvisited neighbours are chosen): random, first, last
+
 (Note: choosing LIFO and random yields the recursive back tracker algorithm)
 
 -- Maze Solving
