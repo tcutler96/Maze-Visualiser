@@ -1,4 +1,4 @@
-# Path-Finding-Visualiser
+# Maze-Visualiser
 A Python maze generator and sovler, visualised with PyGame.
 
 A Python script that first generates a maze and then solves it. This is visualised with PyGame using a simple but 
