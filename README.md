@@ -9,10 +9,9 @@ which are explained with a handy key.
 **Options**
 
 * Maze Generation
-  * Queue Method (What order elements are taken out of the queue): LIFO, FIFO
-  * Choose Method (How new unvisited neighbours are chosen): random, first, last
-
-(Note: choosing LIFO and random yields the recursive back tracker algorithm)
+  * Queue Method (what order elements are taken out of the queue): LIFO, FIFO
+  * Choose Method (how new unvisited neighbours are chosen): random, first, last
+  * (Note: choosing LIFO and random yields the recursive back tracker algorithm)
 
 * Maze Solving
-  * Algorithm (Which path finding algorithm is used): breadth-first search, depth-first search
+  * Algorithm (which path finding algorithm is used): breadth-first search, depth-first search
