@@ -7,7 +7,6 @@ options that effect maze generation and solving. Once initiated, the current sta
 which are explained with a handy key.
 
 **Options**
-
 * Maze Generation
   * Queue Method (what order elements are taken out of the queue): LIFO, FIFO
   * Choose Method (how new unvisited neighbours are chosen): random, first, last
