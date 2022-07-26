@@ -3,11 +3,3 @@ A Python script that first generates a maze and then solves it. This is visualis
 
 # Demo
 ![Demo](demo/demo.gif)
-
-# Options
-* Maze Generation
-  * Queue Method (what order elements are taken out of the queue): LIFO, FIFO
-  * Choose Method (how new unvisited neighbours are chosen): random, first, last
-  * (Note: choosing LIFO and random yields the recursive back tracker algorithm)
-* Maze Solving
-  * Algorithm (which path finding algorithm is used): breadth-first search, depth-first search
